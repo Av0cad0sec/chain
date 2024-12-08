@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["VESTING_LOCK_ID"],"mod":["pallet","weights"],"struct":["BridgeDetails","BridgeId","VestingSchedule"],"type":["BalanceOf","ListVestingScheduleOf","ScheduledGrant","ScheduledItem","VestingScheduleOf"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["development_config","paradis_config","production_config"],"struct":["Extensions","ExtensionsFork"],"type":["ChainSpec"]};

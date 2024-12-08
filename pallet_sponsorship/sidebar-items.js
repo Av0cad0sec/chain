@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["STORAGE_VERSION"],"mod":["pallet","weights"],"struct":["ChargeSponsor","PotDetails","PreDispatchSponsorCallData","UserDetails"],"type":["Pre"]};

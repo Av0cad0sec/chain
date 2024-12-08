@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["XcmpMessageFormat"],"struct":["ParaId","ValidationParams"],"trait":["DmpMessageHandler","XcmpMessageHandler"],"type":["AccountId","AuraId","Balance","Block","BlockId","BlockNumber","DigestItem","Hash","Header","Moment","Nonce","Signature","Timestamp","UpwardMessage"]};

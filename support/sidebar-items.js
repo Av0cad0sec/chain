@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["LimitedBalanceError"],"struct":["LimitedBalance"],"trait":["WithAccountId"]};
